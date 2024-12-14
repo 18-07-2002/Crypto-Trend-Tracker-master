@@ -1,5 +1,5 @@
 # CryptoScope
-![List-Page-1](https://user-images.githubusercontent.com/63337663/179031674-db5da5ef-5ddd-4638-9f51-ac105f011f65.png)
+![List-Page-1](https://github.com/18-07-2002/Crypto-Trend-Tracker-master/blob/3088b845ee00e08d69262cc2b596e058a7b1b358/Screenshots/List-Page-1.png)
 
 
 ## CryptoScope
